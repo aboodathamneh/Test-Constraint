@@ -7,13 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		70ABF9AE2199A98200A0B2DB /* View2r.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70ABF9AD2199A98200A0B2DB /* View2r.swift */; };
 		70FCF54321981E5000CB4F92 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70FCF54221981E5000CB4F92 /* AppDelegate.swift */; };
 		70FCF54521981E5000CB4F92 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70FCF54421981E5000CB4F92 /* ViewController.swift */; };
 		70FCF54821981E5100CB4F92 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 70FCF54621981E5100CB4F92 /* Main.storyboard */; };
 		70FCF54B21981E5100CB4F92 /* Test_Constraint.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 70FCF54921981E5100CB4F92 /* Test_Constraint.xcdatamodeld */; };
-		70FCF54D21981E5100CB4F92 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 70FCF54C21981E5100CB4F92 /* Assets.xcassets */; };
 		70FCF55021981E5200CB4F92 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 70FCF54E21981E5200CB4F92 /* LaunchScreen.storyboard */; };
 		70FCF55B21981E5200CB4F92 /* Test_ConstraintTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70FCF55A21981E5200CB4F92 /* Test_ConstraintTests.swift */; };
+		70FCF56621982C7B00CB4F92 /* Assets 11-21-29-784.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 70FCF56521982C7B00CB4F92 /* Assets 11-21-29-784.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,17 +28,18 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		70ABF9AD2199A98200A0B2DB /* View2r.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = View2r.swift; sourceTree = "<group>"; };
 		70FCF53F21981E5000CB4F92 /* Test Constraint.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Test Constraint.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		70FCF54221981E5000CB4F92 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		70FCF54421981E5000CB4F92 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		70FCF54721981E5100CB4F92 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		70FCF54A21981E5100CB4F92 /* Test_Constraint.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Test_Constraint.xcdatamodel; sourceTree = "<group>"; };
-		70FCF54C21981E5100CB4F92 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		70FCF54F21981E5200CB4F92 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		70FCF55121981E5200CB4F92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		70FCF55621981E5200CB4F92 /* Test ConstraintTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Test ConstraintTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		70FCF55A21981E5200CB4F92 /* Test_ConstraintTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test_ConstraintTests.swift; sourceTree = "<group>"; };
 		70FCF55C21981E5200CB4F92 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		70FCF56521982C7B00CB4F92 /* Assets 11-21-29-784.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Assets 11-21-29-784.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,10 +84,11 @@
 				70FCF54221981E5000CB4F92 /* AppDelegate.swift */,
 				70FCF54421981E5000CB4F92 /* ViewController.swift */,
 				70FCF54621981E5100CB4F92 /* Main.storyboard */,
-				70FCF54C21981E5100CB4F92 /* Assets.xcassets */,
+				70ABF9AD2199A98200A0B2DB /* View2r.swift */,
 				70FCF54E21981E5200CB4F92 /* LaunchScreen.storyboard */,
 				70FCF55121981E5200CB4F92 /* Info.plist */,
 				70FCF54921981E5100CB4F92 /* Test_Constraint.xcdatamodeld */,
+				70FCF56521982C7B00CB4F92 /* Assets 11-21-29-784.xcassets */,
 			);
 			path = "Test Constraint";
 			sourceTree = "<group>";
@@ -180,8 +183,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				70FCF56621982C7B00CB4F92 /* Assets 11-21-29-784.xcassets in Resources */,
 				70FCF55021981E5200CB4F92 /* LaunchScreen.storyboard in Resources */,
-				70FCF54D21981E5100CB4F92 /* Assets.xcassets in Resources */,
 				70FCF54821981E5100CB4F92 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -200,6 +203,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				70ABF9AE2199A98200A0B2DB /* View2r.swift in Sources */,
 				70FCF54521981E5000CB4F92 /* ViewController.swift in Sources */,
 				70FCF54321981E5000CB4F92 /* AppDelegate.swift in Sources */,
 				70FCF54B21981E5100CB4F92 /* Test_Constraint.xcdatamodeld in Sources */,
